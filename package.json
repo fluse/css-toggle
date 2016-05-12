@@ -1,0 +1,20 @@
+{
+  "name": "css-toggle",
+  "version": "1.0.2",
+  "description": "pure css toggle behavior",
+  "main": "dist/toggle.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Holger Schauf",
+  "website": "http://www.holger-schauf.de",
+  "keywords": [
+    "css",
+    "toggle",
+    "pure",
+    "sass",
+    "toggle css",
+    "css tigger"
+  ],
+  "license": "MIT"
+}
