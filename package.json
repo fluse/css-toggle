@@ -1,10 +1,14 @@
 {
   "name": "css-toggle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "pure css toggle behavior",
   "main": "dist/toggle.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluse/css-toggle.git"
   },
   "author": "Holger Schauf",
   "website": "http://www.holger-schauf.de",
